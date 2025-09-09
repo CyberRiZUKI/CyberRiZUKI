@@ -1,7 +1,7 @@
 -  Hi, I’m @CyberRiZUKI, you can call me CybeRiz, or simply, just Riz.
 -  I’m interested in Astrophysics, Japanese Idol (especially Sakurazaka46 櫻坂46) and Music Game.
 -  I’m currently learning python (with data science stuff), physics and maths in university.
--  Reach me though twitter! @kira_cyberizuki
+-  Reach me though twitter! @cyberiz_riz
 -  I am a HKer! I hope Hong Kong-er could be seen in much more way rather than politics......
 
 <!---
