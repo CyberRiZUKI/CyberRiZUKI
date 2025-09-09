@@ -2,7 +2,6 @@
 -  I’m interested in Astrophysics, Japanese Idol (especially Sakurazaka46 櫻坂46) and Music Game.
 -  I’m currently learning python (with data science stuff), physics and maths in university.
 -  Reach me though twitter! @cyberiz_riz
--  I am a HKer! I hope Hong Kong-er could be seen in much more way rather than politics......
 
 <!---
 CyberRiZUKI/CyberRiZUKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
